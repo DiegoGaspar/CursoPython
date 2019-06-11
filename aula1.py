@@ -1,3 +1,8 @@
+'''
+Estudos sobre classe
+objetos
+'''
+
 class Casa(object):
 
 
